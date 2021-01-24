@@ -1,0 +1,13 @@
+.grid-container {
+    width: 100%;
+    padding-top: 30px;
+}
+
+.grid-header {
+    padding-left: 26px;
+}
+
+.grid-content {
+    margin: 0 auto;
+    max-width: 800px;
+}
